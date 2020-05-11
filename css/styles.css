@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+  background : #ade1fd;
+  padding-top: 5%;
+}
+p{
+  background-color: #fff;
+  color: #000;
+  font-size: 20px;
+  list-style-type: none;
+  width: 20%;
+  margin: 0px auto;
+  border-radius: 3px;
+  border: 1px solid #000;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-weight: 900;
+}
+#message1{
+ font-weight: 600;
+ width: 50%;
+}
+#message2{
+  background: rgb(126, 255, 204);
+  width: 50%;
+}
+#message3{
+  width: 50%;
+  background: rgb(255, 233, 151);
+}
+#message4{
+  width: 50%;
+  background: rgb(254, 161, 212);
+}
+#click-me,
+#click-me-2,
+#click-me-3,
+#click-me-4 {
+  background: #009dff;
+  padding: 2px 2px;
+  color: white;
+  margin :6px 6px;
+}

@@ -1,0 +1,19 @@
+Hello:)
+
+it's Yassine with you, I'll explain you how the program works
+so first of all there are the 3 folders
+
+'css'which contains the css file.
+
+'js' which contains the javascript file.
+
+'guide' which contains screenshots showing how the app works.
+
+Step 1: Click in the file "index.html" which is in the birthday folder to launch the page.
+
+Step 2: click in each message that appears until the end the background changes and an audio launches.
+
+you can simply follow the steps that are in the guide folder.
+
+Thank you :)
+
